@@ -1,4 +1,4 @@
 # diff-practice
 変更Stagingよう4rd)
-for rebas conflict retry (rebase-practice branch)
-
+for rebase conflict retry (rebase-practice branch)
+rebase よう　ｂｙローカルリポ
